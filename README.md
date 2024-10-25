@@ -54,7 +54,7 @@ When users see the tweet, they interact with the Tlink rendered as a card with t
 
 ### Smart Contracts:
 - **Fee Distribution Contract**: Splits the 10% transaction fee between the memecoin owner and the share-to-earn pool.
-- **Share-to-Earn Contract**: Tracks referrals and distributes rewards based on successful transactions.
+- **Share-to-Earn Contract**: Tracks referrals and distributes rewards based on successful transactions.(can use database+ manmully instead of smart contract )
 - **Uniswap Integration**: Ensures seamless purchases of $1 worth of memecoin.
 
 ---
@@ -98,5 +98,5 @@ Here's an example of the TokenScript XML defining the actions and rendering the 
 
 ## Next Steps
 
-- **Mockup Creation**: A clickable TokenScript mockup can be developed to simulate this tapp’s user experience and functionalities.
+- **Mockup Creation**: A clickable TokenScript mockup can be developed to simulate this tapp’s user experience and functionalities. (Done)
 - **Product Documentation**: Developers can use detailed documentation outlining the smart contracts, frontend components, and tapp integration with Uniswap and Twitter.
