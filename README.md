@@ -27,7 +27,7 @@ This tapp allows memecoin owners to post on Twitter with an auto-rendered Tlink 
 When users see the tweet, they interact with the Tlink rendered as a card with the following options:
    1. **Buy $1 of Memecoin**: 
       - Clicking the "Buy" button opens a Uniswap interface to purchase $1 worth of the memecoin.
-      - A 10% fee applies (50% to the owner, 50% to the share-to-earn pool).
+      - A 10% fee applies (50% to the owner, 50% to the share-to-earn pool)(or 100% goes to the pool).
    2. **Share to Earn**: 
       - Clicking "Share to Earn" generates a personalized Tlink for the user to share.
       - Referrals through this link allow the sharer to earn a portion from the share-to-earn pool.
